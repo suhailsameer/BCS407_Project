@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# weights file
+*.pt
+
+# generated folders
+runs/
+BCS407_SafetyDetection/
+BCS_407-Project-1/
